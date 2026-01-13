@@ -3,6 +3,9 @@ layout: default
 title: Política de Privacidade
 ---
 
+[Português](./privacy-policy-pt.html) | [English](./privacy-policy-en.html) | [Español](./privacy-policy-es.html)
+
+
 # Política de Privacidade - Writeboard
 
 **Última atualização:** 13 de Janeiro de 2026
