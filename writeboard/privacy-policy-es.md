@@ -5,16 +5,18 @@ title: Política de Privacidad
 
 [Português](./privacy-policy-pt.html) | [English](./privacy-policy-en.html) | [Español](./privacy-policy-es.html)
 
-# Política de Privacidad - Writeboard
+# Política de Privacidad - SwiftBoard - Quadro Branco Digital
 
 **Última actualización:** 13 de Enero de 2026
 
-**Writeboard** ("nosotros", "nuestro" o "aplicación") es un software de pizarra digital y captura de pantalla desarrollado con un enfoque en la privacidad y el almacenamiento local. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información.
+**Sitio web:** [https://andrec84j.github.io/](https://andrec84j.github.io/)
+
+**SwiftBoard - Quadro Branco Digital** ("nosotros", "nuestro" o "aplicación") es un software de pizarra digital y captura de pantalla desarrollado con un enfoque en la privacidad y el almacenamiento local. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información.
 
 ## 1. Recopilación y Almacenamiento de Datos
 
 ### 1.1 Datos Locales
-Writeboard es una aplicación **Local-First**. Esto significa que:
+SwiftBoard - Quadro Branco Digital es una aplicación **Local-First**. Esto significa que:
 *   Todas las capturas de pantalla, dibujos, diagramas y notas se almacenan **exclusivamente en su dispositivo**.
 *   No enviamos sus archivos, imágenes o proyectos a nuestros servidores.
 *   La configuración de la aplicación se guarda localmente en la carpeta de instalación o en el directorio de datos de usuario del sistema operativo.
@@ -46,4 +48,4 @@ Podemos actualizar esta Política de Privacidad periódicamente. Le recomendamos
 
 ## 6. Contacto
 
-Si tiene preguntas sobre esta Política de Privacidad, contáctenos a través de nuestro repositorio oficial o canal de soporte.
+Si tiene preguntas sobre esta Política de Privacidad, contáctenos a través de nuestro repositorio oficial o canal de soporte, o visite nuestro sitio web en [https://andrec84j.github.io/](https://andrec84j.github.io/).

@@ -1,12 +1,12 @@
 {
-  "name": "SwiftBoard",
-  "short_name": "SwiftBoard",
+  "name": "SwiftBoard - Quadro Branco Digital",
+  "short_name": "SwiftBoard - Quadro Branco Digital",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#157878",
   "theme_color": "#157878",
   "description": "Projects and Apps for all!",
-  "id": "swiftboard-app",
+  "id": "SwiftBoard - Quadro Branco Digital-app",
   "orientation": "landscape",
   "categories": [
     "productivity",
