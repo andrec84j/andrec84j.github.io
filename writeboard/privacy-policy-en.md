@@ -20,12 +20,14 @@ SwiftBoard - Quadro Branco Digital is a **Local-First** application. This means 
 *   All screenshots, drawings, diagrams, and notes are stored **exclusively on your device**.
 *   We do not send your files, images, or projects to our servers.
 *   Application settings are saved locally in the installation folder or the operating system's user data directory.
+*   **No Data Usage:** The application does not use any user information for any objective. We guarantee that there is no data collection, analysis, or mining. Everything is processed and kept locally.
 
 ### 1.2 AI (Artificial Intelligence) Data
 To offer advanced features such as optical character recognition (OCR), text improvement, and diagram generation, the application may interact with third-party services (such as OpenAI, Google Gemini, Anthropic Claude, etc.), **if configured by the user**.
 *   **API Keys:** You use your own API keys. They are stored locally on your device in an encrypted form (where possible) or in local configuration files.
 *   **Data Submission:** When using an AI feature, only the text or image strictly necessary for that specific request is sent to the chosen AI provider.
 *   **No Training:** We do not use your data to train our models. The use of data by AI providers (OpenAI, Google, etc.) is governed by their respective privacy policies.
+*   **Usage Responsibility:** The use of third-party company tokens (API keys) is the sole responsibility of the user. The application does not provide any LLM (Large Language Model) service of its own.
 
 ## 2. Device Permissions
 
